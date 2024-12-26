@@ -1,3 +1,8 @@
+# Global State Management Redux and redux toolkit
+
+1. useDispatch is used to call the method to perform actions
+2. useSeletor is used to access the information and also it expects a function.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
